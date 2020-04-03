@@ -4,6 +4,5 @@
 docker>=19.03 nvidia-docker2 nvidia-driver 
 ### Run without build
 `bash cssp_ros-16.04_run.bash`
-### Open another terminal
-Open another terminal  
+### Access container for another terminal 
 `bash cssp_ros-16.04_join.bash`
